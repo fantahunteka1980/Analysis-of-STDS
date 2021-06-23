@@ -39,4 +39,4 @@ Known Issues and Challenges
 
 The dataset has 851 records and more columns. The plan is to compress some of the columns and concentrate on the focused groups (columns). Once the data cleaning is done, the data will be loaded to SQL and Select Statements would be used to manipulate the focused columns, do the analysis work and use visualization tools to present the findings.
 Power bi link
-https://app.powerbi.com/groups/me/reports/f97d4054-cd39-461f-91f1-b62c5fb2c247?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
+https://app.powerbi.com/view?r=eyJrIjoiMTI4MDQyZjctMzAwYS00NmNmLWFjMzktODA3ODNiMGM3MzVjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
