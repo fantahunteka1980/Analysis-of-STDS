@@ -1,106 +1,106 @@
-"year","race_hispanic_ethnicity","cases","population","type"
-2015,"White",8078,197970812,"primary and secondary syphilis"
-2015,"Hispanic or Latino",44550,56592793,"gonorrhea"
-2015,"Asian",506,17416714,"primary and secondary syphilis"
-2015,"White",371476,197970812,"chlamydia"
-2015,"Native Hawaiian or Other Pacific Islander",3452,559682,"chlamydia"
-2015,"Hispanic or Latino",206285,56592793,"chlamydia"
-2015,"American Indian or Alaska Native",4555,2369834,"gonorrhea"
-2015,"Asian",3909,17416714,"gonorrhea"
-2015,"White",88020,197970812,"gonorrhea"
-2015,"American Indian or Alaska Native",130,2369834,"primary and secondary syphilis"
-2015,"Hispanic or Latino",5012,56592793,"primary and secondary syphilis"
-2015,"Native Hawaiian or Other Pacific Islander",57,559682,"primary and secondary syphilis"
-2015,"Black or African American",433703,39925949,"chlamydia"
-2015,"Two or More Races",8126,6583036,"chlamydia"
-2015,"Black or African American",167778,39925949,"gonorrhea"
-2015,"Native Hawaiian or Other Pacific Islander",700,559682,"gonorrhea"
-2015,"Two or More Races",362,6583036,"primary and secondary syphilis"
-2015,"American Indian or Alaska Native",16749,2369834,"chlamydia"
-2015,"Black or African American",8528,39925949,"primary and secondary syphilis"
-2015,"Two or More Races",3274,6583036,"gonorrhea"
-2015,"Asian",19386,17416714,"chlamydia"
-2016,"Asian",674,17741457,"primary and secondary syphilis"
-2016,"Hispanic or Latino",212027,57470287,"chlamydia"
-2016,"American Indian or Alaska Native",17768,2387421,"chlamydia"
-2016,"American Indian or Alaska Native",190,2387421,"primary and secondary syphilis"
-2016,"Black or African American",192118,40229236,"gonorrhea"
-2016,"Native Hawaiian or Other Pacific Islander",72,567208,"primary and secondary syphilis"
-2016,"Two or More Races",405,6762296,"primary and secondary syphilis"
-2016,"Asian",20781,17741457,"chlamydia"
-2016,"Two or More Races",9887,6762296,"chlamydia"
-2016,"White",9692,197969608,"primary and secondary syphilis"
-2016,"Asian",4934,17741457,"gonorrhea"
-2016,"Hispanic or Latino",6193,57470287,"primary and secondary syphilis"
-2016,"Black or African American",449517,40229236,"chlamydia"
-2016,"White",395617,197969608,"chlamydia"
-2016,"Black or African American",9223,40229236,"primary and secondary syphilis"
-2016,"Two or More Races",4103,6762296,"gonorrhea"
-2016,"Native Hawaiian or Other Pacific Islander",3657,567208,"chlamydia"
-2016,"White",110315,197969608,"gonorrhea"
-2016,"American Indian or Alaska Native",5757,2387421,"gonorrhea"
-2016,"Hispanic or Latino",54300,57470287,"gonorrhea"
-2016,"Native Hawaiian or Other Pacific Islander",928,567208,"gonorrhea"
-2017,"Hispanic or Latino",65367,58946729,"gonorrhea"
-2017,"Black or African American",220506,40652365,"gonorrhea"
-2017,"White",131420,197803083,"gonorrhea"
-2017,"Two or More Races",533,6938290,"primary and secondary syphilis"
-2017,"Black or African American",9754,40652365,"primary and secondary syphilis"
-2017,"Two or More Races",5200,6938290,"gonorrhea"
-2017,"Asian",6163,18398646,"gonorrhea"
-2017,"Asian",775,18398646,"primary and secondary syphilis"
-2017,"American Indian or Alaska Native",7208,2403292,"gonorrhea"
-2017,"Hispanic or Latino",6790,58946729,"primary and secondary syphilis"
-2017,"Native Hawaiian or Other Pacific Islander",4058,576773,"chlamydia"
-2017,"Native Hawaiian or Other Pacific Islander",79,576773,"primary and secondary syphilis"
-2017,"American Indian or Alaska Native",264,2403292,"primary and secondary syphilis"
-2017,"Two or More Races",11019,6938290,"chlamydia"
-2017,"White",418395,197803083,"chlamydia"
-2017,"Asian",22997,18398646,"chlamydia"
-2017,"White",10713,197803083,"primary and secondary syphilis"
-2017,"Black or African American",473032,40652365,"chlamydia"
-2017,"American Indian or Alaska Native",18651,2403292,"chlamydia"
-2017,"Hispanic or Latino",232231,58946729,"chlamydia"
-2017,"Native Hawaiian or Other Pacific Islander",1065,576773,"gonorrhea"
-2018,"Native Hawaiian or Other Pacific Islander",94,586346,"primary and secondary syphilis"
-2018,"Asian",846,18728675,"primary and secondary syphilis"
-2018,"Black or African American",223142,40902223,"gonorrhea"
-2018,"Asian",6463,18728675,"gonorrhea"
-2018,"Native Hawaiian or Other Pacific Islander",4042,586346,"chlamydia"
-2018,"Hispanic or Latino",7663,59871746,"primary and secondary syphilis"
-2018,"White",140584,197546407,"gonorrhea"
-2018,"White",11871,197546407,"primary and secondary syphilis"
-2018,"Hispanic or Latino",68326,59871746,"gonorrhea"
-2018,"Black or African American",11419,40902223,"primary and secondary syphilis"
-2018,"Native Hawaiian or Other Pacific Islander",1046,586346,"gonorrhea"
-2018,"White",419627,197546407,"chlamydia"
-2018,"Black or African American",484785,40902223,"chlamydia"
-2018,"Two or More Races",12828,7114666,"chlamydia"
-2018,"Asian",24312,18728675,"chlamydia"
-2018,"American Indian or Alaska Native",18861,2417371,"chlamydia"
-2018,"American Indian or Alaska Native",372,2417371,"primary and secondary syphilis"
-2018,"Hispanic or Latino",231398,59871746,"chlamydia"
-2018,"Two or More Races",649,7114666,"primary and secondary syphilis"
-2018,"Two or More Races",6552,7114666,"gonorrhea"
-2018,"American Indian or Alaska Native",7920,2417371,"gonorrhea"
-2019,"White",145931,197546407,"gonorrhea"
-2019,"White",13005,197546407,"primary and secondary syphilis"
-2019,"Two or More Races",757,7114666,"primary and secondary syphilis"
-2019,"White",414291,197546407,"chlamydia"
-2019,"Two or More Races",16438,7114666,"chlamydia"
-2019,"Black or African American",504409,40902223,"chlamydia"
-2019,"American Indian or Alaska Native",513,2417371,"primary and secondary syphilis"
-2019,"Black or African American",12673,40902223,"primary and secondary syphilis"
-2019,"Two or More Races",8615,7114666,"gonorrhea"
-2019,"Native Hawaiian or Other Pacific Islander",1166,586346,"gonorrhea"
-2019,"Native Hawaiian or Other Pacific Islander",4300,586346,"chlamydia"
-2019,"Native Hawaiian or Other Pacific Islander",135,586346,"primary and secondary syphilis"
-2019,"Asian",7151,18728675,"gonorrhea"
-2019,"American Indian or Alaska Native",8600,2417371,"gonorrhea"
-2019,"Asian",861,18728675,"primary and secondary syphilis"
-2019,"Asian",24053,18728675,"chlamydia"
-2019,"Hispanic or Latino",8226,59871746,"primary and secondary syphilis"
-2019,"Hispanic or Latino",231908,59871746,"chlamydia"
-2019,"American Indian or Alaska Native",18371,2417371,"chlamydia"
-2019,"Hispanic or Latino",70850,59871746,"gonorrhea"
-2019,"Black or African American",237650,40902223,"gonorrhea"
+year,race_and_ethnicity,cases,population,type
+2015,White,8078,197970812,primary and secondary syphilis
+2015,Hispanic or Latino,44550,56592793,gonorrhea
+2015,Asian,506,17416714,primary and secondary syphilis
+2015,White,371476,197970812,chlamydia
+2015,Native Hawaiian or Other Pacific Islander,3452,559682,chlamydia
+2015,Hispanic or Latino,206285,56592793,chlamydia
+2015,American Indian or Alaska Native,4555,2369834,gonorrhea
+2015,Asian,3909,17416714,gonorrhea
+2015,White,88020,197970812,gonorrhea
+2015,American Indian or Alaska Native,130,2369834,primary and secondary syphilis
+2015,Hispanic or Latino,5012,56592793,primary and secondary syphilis
+2015,Native Hawaiian or Other Pacific Islander,57,559682,primary and secondary syphilis
+2015,Black or African American,433703,39925949,chlamydia
+2015,Two or More Races,8126,6583036,chlamydia
+2015,Black or African American,167778,39925949,gonorrhea
+2015,Native Hawaiian or Other Pacific Islander,700,559682,gonorrhea
+2015,Two or More Races,362,6583036,primary and secondary syphilis
+2015,American Indian or Alaska Native,16749,2369834,chlamydia
+2015,Black or African American,8528,39925949,primary and secondary syphilis
+2015,Two or More Races,3274,6583036,gonorrhea
+2015,Asian,19386,17416714,chlamydia
+2016,Asian,674,17741457,primary and secondary syphilis
+2016,Hispanic or Latino,212027,57470287,chlamydia
+2016,American Indian or Alaska Native,17768,2387421,chlamydia
+2016,American Indian or Alaska Native,190,2387421,primary and secondary syphilis
+2016,Black or African American,192118,40229236,gonorrhea
+2016,Native Hawaiian or Other Pacific Islander,72,567208,primary and secondary syphilis
+2016,Two or More Races,405,6762296,primary and secondary syphilis
+2016,Asian,20781,17741457,chlamydia
+2016,Two or More Races,9887,6762296,chlamydia
+2016,White,9692,197969608,primary and secondary syphilis
+2016,Asian,4934,17741457,gonorrhea
+2016,Hispanic or Latino,6193,57470287,primary and secondary syphilis
+2016,Black or African American,449517,40229236,chlamydia
+2016,White,395617,197969608,chlamydia
+2016,Black or African American,9223,40229236,primary and secondary syphilis
+2016,Two or More Races,4103,6762296,gonorrhea
+2016,Native Hawaiian or Other Pacific Islander,3657,567208,chlamydia
+2016,White,110315,197969608,gonorrhea
+2016,American Indian or Alaska Native,5757,2387421,gonorrhea
+2016,Hispanic or Latino,54300,57470287,gonorrhea
+2016,Native Hawaiian or Other Pacific Islander,928,567208,gonorrhea
+2017,Hispanic or Latino,65367,58946729,gonorrhea
+2017,Black or African American,220506,40652365,gonorrhea
+2017,White,131420,197803083,gonorrhea
+2017,Two or More Races,533,6938290,primary and secondary syphilis
+2017,Black or African American,9754,40652365,primary and secondary syphilis
+2017,Two or More Races,5200,6938290,gonorrhea
+2017,Asian,6163,18398646,gonorrhea
+2017,Asian,775,18398646,primary and secondary syphilis
+2017,American Indian or Alaska Native,7208,2403292,gonorrhea
+2017,Hispanic or Latino,6790,58946729,primary and secondary syphilis
+2017,Native Hawaiian or Other Pacific Islander,4058,576773,chlamydia
+2017,Native Hawaiian or Other Pacific Islander,79,576773,primary and secondary syphilis
+2017,American Indian or Alaska Native,264,2403292,primary and secondary syphilis
+2017,Two or More Races,11019,6938290,chlamydia
+2017,White,418395,197803083,chlamydia
+2017,Asian,22997,18398646,chlamydia
+2017,White,10713,197803083,primary and secondary syphilis
+2017,Black or African American,473032,40652365,chlamydia
+2017,American Indian or Alaska Native,18651,2403292,chlamydia
+2017,Hispanic or Latino,232231,58946729,chlamydia
+2017,Native Hawaiian or Other Pacific Islander,1065,576773,gonorrhea
+2018,Native Hawaiian or Other Pacific Islander,94,586346,primary and secondary syphilis
+2018,Asian,846,18728675,primary and secondary syphilis
+2018,Black or African American,223142,40902223,gonorrhea
+2018,Asian,6463,18728675,gonorrhea
+2018,Native Hawaiian or Other Pacific Islander,4042,586346,chlamydia
+2018,Hispanic or Latino,7663,59871746,primary and secondary syphilis
+2018,White,140584,197546407,gonorrhea
+2018,White,11871,197546407,primary and secondary syphilis
+2018,Hispanic or Latino,68326,59871746,gonorrhea
+2018,Black or African American,11419,40902223,primary and secondary syphilis
+2018,Native Hawaiian or Other Pacific Islander,1046,586346,gonorrhea
+2018,White,419627,197546407,chlamydia
+2018,Black or African American,484785,40902223,chlamydia
+2018,Two or More Races,12828,7114666,chlamydia
+2018,Asian,24312,18728675,chlamydia
+2018,American Indian or Alaska Native,18861,2417371,chlamydia
+2018,American Indian or Alaska Native,372,2417371,primary and secondary syphilis
+2018,Hispanic or Latino,231398,59871746,chlamydia
+2018,Two or More Races,649,7114666,primary and secondary syphilis
+2018,Two or More Races,6552,7114666,gonorrhea
+2018,American Indian or Alaska Native,7920,2417371,gonorrhea
+2019,White,145931,197546407,gonorrhea
+2019,White,13005,197546407,primary and secondary syphilis
+2019,Two or More Races,757,7114666,primary and secondary syphilis
+2019,White,414291,197546407,chlamydia
+2019,Two or More Races,16438,7114666,chlamydia
+2019,Black or African American,504409,40902223,chlamydia
+2019,American Indian or Alaska Native,513,2417371,primary and secondary syphilis
+2019,Black or African American,12673,40902223,primary and secondary syphilis
+2019,Two or More Races,8615,7114666,gonorrhea
+2019,Native Hawaiian or Other Pacific Islander,1166,586346,gonorrhea
+2019,Native Hawaiian or Other Pacific Islander,4300,586346,chlamydia
+2019,Native Hawaiian or Other Pacific Islander,135,586346,primary and secondary syphilis
+2019,Asian,7151,18728675,gonorrhea
+2019,American Indian or Alaska Native,8600,2417371,gonorrhea
+2019,Asian,861,18728675,primary and secondary syphilis
+2019,Asian,24053,18728675,chlamydia
+2019,Hispanic or Latino,8226,59871746,primary and secondary syphilis
+2019,Hispanic or Latino,231908,59871746,chlamydia
+2019,American Indian or Alaska Native,18371,2417371,chlamydia
+2019,Hispanic or Latino,70850,59871746,gonorrhea
+2019,Black or African American,237650,40902223,gonorrhea
