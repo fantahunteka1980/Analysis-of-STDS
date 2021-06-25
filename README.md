@@ -2,7 +2,7 @@
 
 Executive Summary
 
-Analysis of Sexually Transmitted Diseases (STDs) Ranked by State
+Sexually Transmitted Diseases (STDs) Infection rates(2010-2019)
 Sexually Transmitted Diseases (STDs) are very common. Millions of new infections are detected every year in the United States. The objective of this analysis is to create awareness on how the disease is spreading nationwide by taking a dataset from Centers for Disease Control and Prevention Surveillance Reports 2010-2019 and other sources as necessary to come up with some critical recommendations. 
 Motivation
 
